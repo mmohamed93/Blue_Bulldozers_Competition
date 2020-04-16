@@ -4,7 +4,7 @@ Achieving an RMSE lower than the number one on Kaggle Private Leader Board (0.21
 [Blue Book for Bulldozers Competition](https://www.kaggle.com/c/bluebook-for-bulldozers/leaderboard)
 
 ## Dataset
-The data is available to download from Kaggle [Blue Book for Bulldozers Competition](https://www.kaggle.com/c/bluebook-for-bulldozers/leaderboard) and included in the repository.
+The data is available to download from Kaggle [Blue Book for Bulldozers Competition](https://www.kaggle.com/c/bluebook-for-bulldozers/leaderboard)
 
 ## Steps
 1 - Load and preprocess the data</br>
